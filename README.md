@@ -7,15 +7,15 @@
 
 ### 💢 - Языки:
 - [PHP](https://www.php.net/manual/ru/intro-whatis.php) --- [C++](https://ru.wikipedia.org/wiki/C%2B%2B) --- [Python](https://www.python.org/)   
-- HTML --- CSS --- SCSS --- SASS* --- SQL*   
+- [HTML]() --- [CSS]() --- [SCSS]() --- [SASS]()* --- [SQL]()*   
 _* - только опробовал_
 
 ### 💢 - Технологии:
-- [Laravel](https://laravel.com/) --- Node.js* --- [GitHub](https://github.com/RiabovAndrew/RiabovAndrew)   
+- [Laravel](https://laravel.com/) --- [Node.js]()* --- [GitHub](https://github.com/RiabovAndrew/RiabovAndrew) --- [Django](https://www.djangoproject.com/)   
 _* - только опробовал_
 
 ### 💢 - Инструменты:
-- Windows --- Visual Studio --- VS Code --- PHPStorm --- PyCharm   
+- [Windows]() --- [Visual Studio]() --- [VS Code]() --- [PHPStorm]() --- [PyCharm]()   
 и доп. инструменты:   
 - [Open Server]() --- [Composer]() --- [Postman]()
 
