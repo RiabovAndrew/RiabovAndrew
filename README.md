@@ -11,7 +11,7 @@
 _* - только опробовал_
 
 ### 💢 - Технологии:
-- [Laravel](https://laravel.com/) --- [Node.js]()* --- [GitHub](https://github.com/RiabovAndrew/RiabovAndrew) --- [Django](https://www.djangoproject.com/)   
+- [Laravel](https://laravel.com/) --- [Node.js]()* --- [GitHub](https://github.com/RiabovAndrew/RiabovAndrew) --- [Django](https://www.djangoproject.com/)*   
 _* - только опробовал_
 
 ### 💢 - Инструменты:
