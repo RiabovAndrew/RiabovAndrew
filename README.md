@@ -7,7 +7,7 @@
 
 ### 💢 - Языки:
 - [PHP](https://www.php.net/manual/ru/intro-whatis.php) --- [C++](https://ru.wikipedia.org/wiki/C%2B%2B) --- [Python](https://www.python.org/)   
-- [HTML]() --- [CSS]() --- [SCSS]() --- [SASS]()* --- [SQL]()*   
+- [HTML]() --- [CSS]() --- [SCSS]() --- [SASS]()* --- [SQL]()   
 _* - только опробовал_
 
 ### 💢 - Технологии:
